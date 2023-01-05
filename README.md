@@ -1,4 +1,7 @@
 # qb-hungeralerts
+#description
+This will make a stomach growling sound as you get hungry and a thirsty sound when you need water.
+
 #requirements
 - Interactive-sounds
 
